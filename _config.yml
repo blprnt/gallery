@@ -28,8 +28,8 @@ columns: 4
 max_height: 400
 
 # Handle
-instagram: blprnt
-twitter: blprnt
+#instagram: blprnt
+#twitter: blprnt
 
 ######################
 # END OF CONFIG CODE #
