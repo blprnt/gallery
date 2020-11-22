@@ -57,20 +57,12 @@
       "path": "./photos/Previews/7_InfiniteWeft.png"
     },
     {
-      "height": 1188,
-      "compressed_path": "./photos/Previews/8_Descent.min.png",
-      "width": 882,
+      "height": 1186,
+      "compressed_path": "./photos/Previews/8_AscentDescent.min.png",
+      "width": 1764,
       "compressed": false,
-      "placeholder_path": "./photos/Previews/8_Descent.placeholder.png",
-      "path": "./photos/Previews/8_Descent.png"
-    },
-    {
-      "height": 1188,
-      "compressed_path": "./photos/Previews/8_Ascent.min.png",
-      "width": 882,
-      "compressed": false,
-      "placeholder_path": "./photos/Previews/8_Ascent.placeholder.png",
-      "path": "./photos/Previews/8_Ascent.png"
+      "placeholder_path": "./photos/Previews/8_AscentDescent.placeholder.png",
+      "path": "./photos/Previews/8_AscentDescent.png"
     },
     {
       "height": 1186,
