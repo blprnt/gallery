@@ -33,6 +33,7 @@ class Renderer {
     if (config.shuffle) {
       shuffle(photos);
     }
+    photos.reverse();
     return photos
   }
 
