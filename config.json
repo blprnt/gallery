@@ -2,62 +2,6 @@
   "Previews": [
     {
       "height": 1186,
-      "compressed_path": "./photos/Previews/4_Miombo.min.png",
-      "width": 882,
-      "compressed": false,
-      "placeholder_path": "./photos/Previews/4_Miombo.placeholder.png",
-      "path": "./photos/Previews/4_Miombo.png"
-    },
-    {
-      "height": 1186,
-      "compressed_path": "./photos/Previews/12_CrackPop.min.png",
-      "width": 882,
-      "compressed": false,
-      "placeholder_path": "./photos/Previews/12_CrackPop.placeholder.png",
-      "path": "./photos/Previews/12_CrackPop.png"
-    },
-    {
-      "height": 1186,
-      "compressed_path": "./photos/Previews/6_Completeness.min.png",
-      "width": 1764,
-      "compressed": false,
-      "placeholder_path": "./photos/Previews/6_Completeness.placeholder.png",
-      "path": "./photos/Previews/6_Completeness.png"
-    },
-    {
-      "height": 1186,
-      "compressed_path": "./photos/Previews/11_RiceShow.min.png",
-      "width": 882,
-      "compressed": false,
-      "placeholder_path": "./photos/Previews/11_RiceShow.placeholder.png",
-      "path": "./photos/Previews/11_RiceShow.png"
-    },
-    {
-      "height": 1186,
-      "compressed_path": "./photos/Previews/13_MichaelBrownMedical.min.png",
-      "width": 1764,
-      "compressed": false,
-      "placeholder_path": "./photos/Previews/13_MichaelBrownMedical.placeholder.png",
-      "path": "./photos/Previews/13_MichaelBrownMedical.png"
-    },
-    {
-      "height": 1186,
-      "compressed_path": "./photos/Previews/16_CitationLeaves_.min.png",
-      "width": 882,
-      "compressed": false,
-      "placeholder_path": "./photos/Previews/16_CitationLeaves_.placeholder.png",
-      "path": "./photos/Previews/16_CitationLeaves_.png"
-    },
-    {
-      "height": 1188,
-      "compressed_path": "./photos/Previews/8_Descent.min.png",
-      "width": 882,
-      "compressed": false,
-      "placeholder_path": "./photos/Previews/8_Descent.placeholder.png",
-      "path": "./photos/Previews/8_Descent.png"
-    },
-    {
-      "height": 1186,
       "compressed_path": "./photos/Previews/1_HeartRate.min.png",
       "width": 882,
       "compressed": false,
@@ -74,22 +18,6 @@
     },
     {
       "height": 1186,
-      "compressed_path": "./photos/Previews/7_InfiniteWeft.min.png",
-      "width": 1764,
-      "compressed": false,
-      "placeholder_path": "./photos/Previews/7_InfiniteWeft.placeholder.png",
-      "path": "./photos/Previews/7_InfiniteWeft.png"
-    },
-    {
-      "height": 1186,
-      "compressed_path": "./photos/Previews/10_Mariner4.min.png",
-      "width": 1764,
-      "compressed": false,
-      "placeholder_path": "./photos/Previews/10_Mariner4.placeholder.png",
-      "path": "./photos/Previews/10_Mariner4.png"
-    },
-    {
-      "height": 1186,
       "compressed_path": "./photos/Previews/3_Memorial.min.png",
       "width": 882,
       "compressed": false,
@@ -98,11 +26,11 @@
     },
     {
       "height": 1186,
-      "compressed_path": "./photos/Previews/14_MichaelBrownParks-copy.min.png",
+      "compressed_path": "./photos/Previews/4_Miombo.min.png",
       "width": 882,
       "compressed": false,
-      "placeholder_path": "./photos/Previews/14_MichaelBrownParks-copy.placeholder.png",
-      "path": "./photos/Previews/14_MichaelBrownParks-copy.png"
+      "placeholder_path": "./photos/Previews/4_Miombo.placeholder.png",
+      "path": "./photos/Previews/4_Miombo.png"
     },
     {
       "height": 1186,
@@ -114,11 +42,75 @@
     },
     {
       "height": 1186,
-      "compressed_path": "./photos/Previews/17_Crisis.min.png",
+      "compressed_path": "./photos/Previews/6_Completeness.min.png",
       "width": 1764,
       "compressed": false,
-      "placeholder_path": "./photos/Previews/17_Crisis.placeholder.png",
-      "path": "./photos/Previews/17_Crisis.png"
+      "placeholder_path": "./photos/Previews/6_Completeness.placeholder.png",
+      "path": "./photos/Previews/6_Completeness.png"
+    },
+    {
+      "height": 1186,
+      "compressed_path": "./photos/Previews/7_InfiniteWeft.min.png",
+      "width": 1764,
+      "compressed": false,
+      "placeholder_path": "./photos/Previews/7_InfiniteWeft.placeholder.png",
+      "path": "./photos/Previews/7_InfiniteWeft.png"
+    },
+    {
+      "height": 1188,
+      "compressed_path": "./photos/Previews/8_Descent.min.png",
+      "width": 882,
+      "compressed": false,
+      "placeholder_path": "./photos/Previews/8_Descent.placeholder.png",
+      "path": "./photos/Previews/8_Descent.png"
+    },
+    {
+      "height": 1188,
+      "compressed_path": "./photos/Previews/9_Ascent.min.png",
+      "width": 882,
+      "compressed": false,
+      "placeholder_path": "./photos/Previews/9_Ascent.placeholder.png",
+      "path": "./photos/Previews/9_Ascent.png"
+    },
+    {
+      "height": 1186,
+      "compressed_path": "./photos/Previews/10_Mariner4.min.png",
+      "width": 1764,
+      "compressed": false,
+      "placeholder_path": "./photos/Previews/10_Mariner4.placeholder.png",
+      "path": "./photos/Previews/10_Mariner4.png"
+    },
+    {
+      "height": 1186,
+      "compressed_path": "./photos/Previews/11_RiceShow.min.png",
+      "width": 882,
+      "compressed": false,
+      "placeholder_path": "./photos/Previews/11_RiceShow.placeholder.png",
+      "path": "./photos/Previews/11_RiceShow.png"
+    },
+    {
+      "height": 1186,
+      "compressed_path": "./photos/Previews/12_CrackPop.min.png",
+      "width": 882,
+      "compressed": false,
+      "placeholder_path": "./photos/Previews/12_CrackPop.placeholder.png",
+      "path": "./photos/Previews/12_CrackPop.png"
+    },
+    {
+      "height": 1186,
+      "compressed_path": "./photos/Previews/13_MichaelBrownMedical.min.png",
+      "width": 1764,
+      "compressed": false,
+      "placeholder_path": "./photos/Previews/13_MichaelBrownMedical.placeholder.png",
+      "path": "./photos/Previews/13_MichaelBrownMedical.png"
+    },
+    {
+      "height": 1186,
+      "compressed_path": "./photos/Previews/14_MichaelBrownParks-copy.min.png",
+      "width": 882,
+      "compressed": false,
+      "placeholder_path": "./photos/Previews/14_MichaelBrownParks-copy.placeholder.png",
+      "path": "./photos/Previews/14_MichaelBrownParks-copy.png"
     },
     {
       "height": 1186,
@@ -129,12 +121,20 @@
       "path": "./photos/Previews/15_Sovereignty.png"
     },
     {
-      "height": 1188,
-      "compressed_path": "./photos/Previews/9_Ascent.min.png",
+      "height": 1186,
+      "compressed_path": "./photos/Previews/16_CitationLeaves_.min.png",
       "width": 882,
       "compressed": false,
-      "placeholder_path": "./photos/Previews/9_Ascent.placeholder.png",
-      "path": "./photos/Previews/9_Ascent.png"
+      "placeholder_path": "./photos/Previews/16_CitationLeaves_.placeholder.png",
+      "path": "./photos/Previews/16_CitationLeaves_.png"
+    },
+    {
+      "height": 1186,
+      "compressed_path": "./photos/Previews/17_Crisis.min.png",
+      "width": 1764,
+      "compressed": false,
+      "placeholder_path": "./photos/Previews/17_Crisis.placeholder.png",
+      "path": "./photos/Previews/17_Crisis.png"
     }
   ]
 }
